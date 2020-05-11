@@ -1,0 +1,8 @@
+c,Lima,peru
+s,cachara,hotel,,3
+c,Medellin,Colombia
+s,Metro,Medio, ,3
+c,Bogota,Colombia
+s,Monserrate,Religioso, ,3
+c,Cartagena,Colombia
+s,Hotel,Carte¤o, ,3
